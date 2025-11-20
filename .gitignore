@@ -1,2 +1,5 @@
+# Environemnt
+.venv/
+
 # Finder.app
 .DS_Store
