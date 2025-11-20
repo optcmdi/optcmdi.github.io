@@ -1,3 +1,3 @@
 # optcmdi.dev
 
-The beinnings of a personal website for a web developer.
+The beginning of a personal website for a web developer.
